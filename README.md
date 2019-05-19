@@ -1,3 +1,3 @@
 # Long-Projects
 
-Material content from University courses and first implementations
+First project oriented to create different applications using C++ 
